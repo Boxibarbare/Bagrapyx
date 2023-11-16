@@ -36,6 +36,21 @@ Il y a 2 fin. La première, quand toutes les clés sont posées dans la porte pa
 
 ### Player
 
+Les Monstres (🔵) :
+- Mettre 3 pièges (quand ils le voudront) qui immobiliseront le joueur qui marche dessus pendant 5sec.
+- Bouges plus lentement que les survivants 🟢
+- Ne peuvent pas tirer, uniquement toucher (collision)
+- Ne peuvent pas respawn
+
+
+Les Surviants (🟢) :
+- Ne peuvent que prendre une clé par personne
+- Peuvent récupérer des orbs
+- Ne peuvent pas respawn
+- Bouges plus rapidement que les monstres 🔵
+- Ne peuvent pas faire des dégâts 
+
+
 
 
 
