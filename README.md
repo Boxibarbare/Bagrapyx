@@ -48,7 +48,35 @@ Les Surviants (🟢) :
 - Peuvent récupérer des orbs
 - Ne peuvent pas respawn
 - Bouges plus rapidement que les monstres 🔵
-- Ne peuvent pas faire des dégâts 
+- Ne peuvent pas faire des dégâts
+
+## Architecture matérielle 📐✏️
+
+SOON
+
+## Pre-requisites ☑
+
+- Python 3.12 or higher
+- An arena in Pytactx
+
+## Installation 🔧
+
+(Installation of necesary packages automatically occur when an agent is created.)
+
+## Test 🧪
+
+SOON
+
+## Author
+
+PytactX : Julien Arné
+
+Bagrapyx : Cédric / Marin
+
+## Licence
+
+SOON
+
 
 
 
