@@ -13,8 +13,8 @@ Lors de nos cours de développement numérique, nous avons dû créer un jeu en 
 
 Dans ce point de vue de l'arène, vous pouvez voir les différents composants de Bagrapyx:
 
-- 🔵: équipe 1 agents
-- 🟢: équipe 2 agents
+- 🔵: équipe 1 Monstres
+- 🟢: équipe 2 Survivants
 - 🟥: porte de sortie
 - 🔹: parcours / pièges
 - 🟣: stun
