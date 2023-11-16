@@ -20,7 +20,7 @@ Dans ce point de vue de l'arène, vous pouvez voir les différents composants de
 - 🟣: stun
 - 🗝️: clés à obtenir
 
-### Commznt jouer 
+### Comment jouer 
 
 Il y a 2 équipes. La première, les joueurs sont des survivants, ils doivent obtenir une somme de clés définie et doivent les mettre dans la porte. Malgrès tout, ils ont une contrainte qui consiste à avoir qu'une clé en main.
 La deuxième équipe, les joueurs sont des monstres, ils doivent capturer tout les survivants en les touchant. Tout comme les survivants, ils ont une contrainte. Cette contrainte consiste, pour les survivants, à utiliser une orb pour paralyser tous les monstres de la map pendant 3s, les survivants doivent passer dessus pour les activés.
