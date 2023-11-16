@@ -30,10 +30,11 @@ La deuxième équipe, les joueurs sont des monstres, ils doivent capturer tout l
 Il y a 2 fin. La première, quand toutes les clés sont posées dans la porte par les survivants, la porte s'ouvre et les survivants peuvent sortir. La deuxième, les monstres doivent capturer tous les survivants pour que la partie s'arrête.
 
 
+## Uses Cases 
 
+### Admin
 
-
-
+### Player
 
 
 
