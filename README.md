@@ -1,6 +1,6 @@
 # Bagrapyx 🔪
 
-Bagrapyx est un jeu inspiré de jeux Roblox, créé avec les bases de pytactx, un moteur de jeu développé pour aider à apprendre le développement par Jusdeliens.
+Bagrapyx est un jeu inspiré de jeux Roblox (Bakon, Granny, Piggy), créé avec les bases de pytactx, un moteur de jeu développé pour aider à apprendre le développement par Jusdeliens.
 
 ## Contexte 🔎
 
@@ -25,7 +25,7 @@ Dans ce point de vue de l'arène, vous pouvez voir les différents composants de
 
 ### Comment jouer 
 
-Il y a 2 équipes. La première, les joueurs sont des survivants, ils doivent obtenir une somme de clés définie et doivent les mettre dans la porte. Malgrès tout, ils ont une contrainte qui consiste à avoir qu'une clé en main.
+Il y a 2 équipes. La première, les joueurs sont des survivants, ils doivent obtenir une somme de clés définie et doivent les ramener dans la porte. Malgrès tout, ils ont une contrainte qui consiste à avoir qu'une clé en main. 
 La deuxième équipe, les joueurs sont des monstres, ils doivent capturer tous les survivants en les touchant. Tout comme les survivants, ils ont une contrainte. Cette contrainte consiste, pour les survivants, à utiliser une orb pour paralyser tous les monstres de la ma pendant 3s, les survivants doivent passer sur les orbs pour les activer.
 
 ### Fin du jeu 
